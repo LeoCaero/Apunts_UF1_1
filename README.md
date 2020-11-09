@@ -18,7 +18,7 @@
 - **Código Objeto**(intermediario): archivo binario no ejecutable. 
 - **Código ejecutable**: archivo binario ejecutable.
 
-        
+   
 ## DESARROLLO DE SOFTWARE
 
 ### Fases principales
