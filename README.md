@@ -1,5 +1,7 @@
 # Apunts_UF1_1
 
+<br>
+
 ## INTRODUCCIÓN
 
 ### Tipos de Software
@@ -18,7 +20,8 @@
 - **Código Objeto**(intermediario): archivo binario no ejecutable. 
 - **Código ejecutable**: archivo binario ejecutable.
 
-   
+<br>
+
 ## DESARROLLO DE SOFTWARE
 
 ### Fases principales
