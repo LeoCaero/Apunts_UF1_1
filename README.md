@@ -39,19 +39,19 @@ Se determinan y definen las necesidades del cliente y se especifíca los requisi
 #### Diseño: 
 Se descopmpone y ordena el sistema de componentes que pueden ser desarrollados por separado y se especifíca la interrelación/funcionaliad de los elementos componentes.
 
-    Cuales son las actividades habituales?
-    - Diseño arquitectónico
-    - Diseño detallado
-    - Diseño de datos
-    - Diseño de interfaz
+Cuales son las actividades habituales?
+- Diseño arquitectónico
+- Diseño detallado
+- Diseño de datos
+- Diseño de interfaz
 
 
 #### Codificación: 
 En esta fase se escribe el código fuente de cada componente.
 
-    Que tipos de lenguajes informáticos se pueden utilizar?
-    - De programación (C, C++, Java, JavaScript,...)
-    - De otro tipo (HTML, XML, JSON,...)
+Que tipos de lenguajes informáticos se pueden utilizar?
+- De programación (C, C++, Java, JavaScript,...)
+- De otro tipo (HTML, XML, JSON,...)
   
 
 #### Pruebas: 
@@ -61,8 +61,8 @@ El principal objetivo de esta fase es conseguir que el programa funcione  de for
 #### Mantenimiento: 
 Durante la explotación de sistema software es necesario realizar cambios ocasionales, para conseguir eso se ha de rehacer la parte del trabajo realizado en las fases previas.
   
-  Que tipos de mantenimiento hay?
-    - Correctivo: sirve para corregir defectos.
-    - Perfectivo: se mejora la funcionalidad.
-    - Evolutivo: se añaden funcionalidades nuevas.
-    - Adaptativo: se adaptan a nuevos entornos.
+Que tipos de mantenimiento hay?
+- Correctivo: sirve para corregir defectos.
+- Perfectivo: se mejora la funcionalidad.
+- Evolutivo: se añaden funcionalidades nuevas.
+- Adaptativo: se adaptan a nuevos entornos.
