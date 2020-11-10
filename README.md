@@ -72,32 +72,62 @@ Que tipos de mantenimiento hay?
 
 ## MODELOS DE DESARROLLO DE SOFTWARE
 
-// EDITAR A LA HORA DE HACER APUNTES
-CASCADA : FINS QUE NO S¡'ACABA UNA FASE (AROBADA) NO SE PASA A LA SIGUIENTE (no se adpata a ningun cambio)
+### MODELOS CLÁSICOS (PREDICTIVOS)
 
+#### MODELO EN CASCADA
 
+  - Modelo más antiguo.
+  - Identifica las dases principales del desarrollo software.
+  - Las fases han de realizarse en el orden indicado.
+  - El resultado de una face de entrada a la siguiente fase.
+  - Modelo bastante rígido que no se adapta bien a futuros cambios/actualizaciones.
+  - Existen diferentes variantes.  
 
-Model en V(EL segon més antic) permite adaptarse, permite verififcar  y comproar las cosas
+#### MODELO EN V
 
+  - Modelo parecido al modelo de cascada
+  - Visión jerarquizada en distintos niveles.
+  - Mas abstraccion en niveles superiores
+  - Niveles interiores mas detallados.
+  - El resultado de una fase es la entrada de otra.
+  - Existen diferentes variantes.  
 
-PROTOTIPOS:
-rapidos : 
-evolutivos: 
+### Modelo de construcción de prototipos
 
+  - Los requisitos no están especificados claramente(a menudo):
+    - Existencia previa nula.
+    - Omisión o falta de concreción de usuario/cliente.
+    
+  - Proceso:
+    - Se crea el prototipo durante la fase de análisis y es probado por el usuario/cliente.
+    - El paso anterior se repite las veces necesarias.
+  
+  - Tipos de prototipos:
+    - **Prototipos rápidos**: puede estar desarrollado usando otro lenguaje y/o herramientas i el prototipo al final se desecha.
+    - **Prototipos evolutivos**: está diseñado en el mismo lenguaje y herramientas y se usa como base para desarrollar el proyecto.
+    
+### Modelos evolutivos o incrementales
 
-Constru(client no sap que vol), comunicacio constant amb el client
+#### Modelo en espiral (iterativos)
+  
+  - La actividad de ingeniería corresponde con las fases del modelo.
+  - Se da gran importáncia a la reutilización de código.
 
-evol:constant comunicacio amb client per millorar.
+#### Metodologías ágiles (adaptativos)
 
-agils: adaptarse a las condiciones del entorno:
-mejoran lo que ya existe, metodologias a utilizar: Kanban Scrum, programacion extrema
-Trabajo de manera colaborativa, comunicacion constante, se realizan a traves de diferentes organizaciones
+  - Métodos de ingeniería del software basados en el desarrollo iterativo e incremental.
+  - Los requisitos y soluciones van evolucionando con el tiempo según las necesidades en el proyecto.
+  - El trabajo se hace colaborativo mediante los equipos de trabajo.
+  - Metdologías más conocidas:
+    - Kanban
+    - Scrum
+    - XP (Programación Extrema)
 
-XP (PROGRAMACIÓN EXTREMA): VALORES UTILIZADOS 
- - Simplicidad
- - Comunicación
- - Retroalimentación (comunicacion mútua)
- - Valentía o coraje ()/
- - Respeto o humildad (respetar trabajo entre mútuos)
+#### XP (PROGRAMACIÓN EXTREMA): VALORES UTILIZADOS 
+  - Simplicidad
+  - Comunicación
+  - Retroalimentación (comunicacion mútua)
+  - Valentía o coraje ()/
+  - Respeto o humildad (respetar trabajo entre mútuos)
  
  ## LENGUAJES DE PROGRAMACIÓN
