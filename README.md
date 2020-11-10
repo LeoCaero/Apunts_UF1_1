@@ -69,3 +69,35 @@ Que tipos de mantenimiento hay?
 - Perfectivo: se mejora la funcionalidad.
 - Evolutivo: se añaden funcionalidades nuevas.
 - Adaptativo: se adaptan a nuevos entornos.
+
+## MODELOS DE DESARROLLO DE SOFTWARE
+
+// EDITAR A LA HORA DE HACER APUNTES
+CASCADA : FINS QUE NO S¡'ACABA UNA FASE (AROBADA) NO SE PASA A LA SIGUIENTE (no se adpata a ningun cambio)
+
+
+
+Model en V(EL segon més antic) permite adaptarse, permite verififcar  y comproar las cosas
+
+
+PROTOTIPOS:
+rapidos : 
+evolutivos: 
+
+
+Constru(client no sap que vol), comunicacio constant amb el client
+
+evol:constant comunicacio amb client per millorar.
+
+agils: adaptarse a las condiciones del entorno:
+mejoran lo que ya existe, metodologias a utilizar: Kanban Scrum, programacion extrema
+Trabajo de manera colaborativa, comunicacion constante, se realizan a traves de diferentes organizaciones
+
+XP (PROGRAMACIÓN EXTREMA): VALORES UTILIZADOS 
+ - Simplicidad
+ - Comunicación
+ - Retroalimentación (comunicacion mútua)
+ - Valentía o coraje ()/
+ - Respeto o humildad (respetar trabajo entre mútuos)
+ 
+ ## LENGUAJES DE PROGRAMACIÓN
