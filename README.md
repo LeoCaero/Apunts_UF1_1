@@ -1,6 +1,4 @@
-# Apunts_UF1_1
-
-<br>
+# Apunts_UF1_1  
 
 ## INTRODUCCIÓN
 
