@@ -193,14 +193,14 @@ Para obtener un código binario ejecutable, tenemos 2 opciones:
     - Funcionales: Utilizan funciones
     - Algebráicos: Utilizan sentencias
   - Normalmente son lenguajes interpretados.
-  <br/>
+  <br>
   - Tipos de lenguajes **imperativos**:
     - Son estructurados
     - Están orientados a objetos
     - Son multiparadigma
   - Los lenguajes orientados  a objetos son también lenguajes estructurados.
   - Muchos de estos lenguajes son compilados.
-  <br/>
+  <br>
   - Tipos de lenguajes según su nivel de **abstacción**:
     - Bajo nivel: ensamblador
     - Medio nivel: C
