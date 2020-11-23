@@ -130,4 +130,90 @@ Que tipos de mantenimiento hay?
   - Valentía o coraje ()/
   - Respeto o humildad (respetar trabajo entre mútuos)
  
- ## LENGUAJES DE PROGRAMACIÓN
+
+## LENGUAJES DE PROGRAMACIÓN 
+
+### Otención de código ejecutable
+
+Para obtener un código binario ejecutable, tenemos 2 opciones:
+  - Compilar
+  - Interpretar
+ 
+#### Compliar
+
+  Compilar significa que el código que escribimos, lo transformamos a un código
+  que entienden las máquinas y de esta forma, obtener un programa ejecutable
+  que se pueda leer fácilmente entre ordenadores y máquinas
+  
+#### Ejemplos lenguajes compilados
+  - C, C++
+  - Principal ventaja: La ejecución de estos, es muy eficiente.
+  - Principal desventaja: Es necesaria la compilación cada vez que modifiquemos el código fuente
+
+#### Interpretar
+
+  En programación, interpretar, és analizar y ejecutar otros programas mediante
+  a un programa informático (intérprete).
+  
+#### Ejemplos lenguajes compilados
+
+  - PHP, Javascript
+  - Principal ventaja: El código guente se interpreta de forma directa
+  - Principal desventaja: Su ejecución es menos eficiente.
+  
+### ¿Cual es el proceso de compilación / interpretación?
+
+  - La compilación/interpretación del código se lleva a cabo en 2 tipos de fases:
+    - Análisis léxico
+    - Análisis sintáctico
+  - Si no hay ninguna existencia de errores, se genera el código objeto correspondiente.
+  - Un código fuente correctamente escrito no quiere significar que funcione según lo deseado.
+  - No se realiza un análisis semántico.
+  
+### JAVA
+
+  - Lenguajes compilado e interpretado
+  - El código fuente Java se compila y se obtiene un código binario intermedio que se denomina **bytecode.
+  - Se puede considerar como un código objeto pero destinado a la máquina virtual de Java en lugar de código objeto nativo.
+  - Después, el **Bytecode** se interpreta para ejecutarlo.
+  - Ventajas:
+    - Estructurado y orientado a objetos.
+    - Relativamente su aprendizaje es fácil.
+    - Buena documentación y base de usuarios
+  - Desventajas:
+    - Menos eficiente que los lenguajes compilados
+
+### Tipos
+  - Según la forma en la que operan:
+    - **Declarativos**: indicamos el resultado sin especificar préviamente los pasos a realizar.
+    - **Imperativos**: indicamos los pasos a seguir para obtener un resultado a cabo.
+  
+  - Tipos de lenguajes **declaratvos**:
+    - Lógicos: Utilizan reglas
+    - Funcionales: Utilizan funciones
+    - Algebráicos: Utilizan sentencias
+  - Normalmente son lenguajes interpretados.
+  
+  - Tipos de lenguajes **imperativos**:
+    - Son estructurados
+    - Están orientados a objetos
+    - Son multiparadigma
+  - Los lenguajes orientados  a objetos son también lenguajes estructurados.
+  - Muchos de estos lenguajes son compilados.
+  
+  - Tipos de lenguajes según su nivel de **abstacción**:
+    - Bajo nivel: ensamblador
+    - Medio nivel: C
+    - Alto nivel: C++, Java
+    
+### Criterios para la selección de un lenguaje de programación
+
+  A la hora de elegir un lenguaje de programación para hacer desarrollo de software, hemos de tener en cuenta unos criterios básicos, estos són:
+
+  - En que campo aplicación se encuentra.
+  - Tener experiéncia previa.
+  - Que herramienta de desarrollo se utilitza.
+  - Mirar si hay una documentación disponible.
+  - Tener una base de usuarios.
+  - Si el lenguaje es reusable i portable.
+  - Iposición de nuestro cliente.
