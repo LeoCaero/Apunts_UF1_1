@@ -205,7 +205,7 @@ Para obtener un código binario ejecutable, tenemos 2 opciones:
 
 <br>
 
-  - Tipos de lenguajes según su nivel de **abstacción**:
+  - Tipos de lenguajes según su nivel de **abstracción**:
     - Bajo nivel: ensamblador
     - Medio nivel: C
     - Alto nivel: C++, Java
